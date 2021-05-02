@@ -1,0 +1,67 @@
+.h1 {
+    margin-top: 5%;
+    font-family: calibri;
+    font-size: 40px;
+}
+
+hr {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.hr {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+img {
+    width: 10%;
+    margin-left: 3%;
+    border: 1px solid green;
+}
+
+h1 {
+    display: inline-block;
+    margin-left: 5%;
+    border: 3px solid dodgerblue;
+    width: 15%;
+    height: 100px;
+    text-align: center;
+    pointer-events: stroke;
+    color: red;
+}
+
+.c {
+    background-image: url("images/crash.png");
+    background-size: cover;
+}
+
+.k {
+    background-image: url("images/kick.png");
+    background-size: cover;
+}
+
+.s {
+    background-image: url("images/snare.png");
+    background-size: cover;
+}
+
+.t1 {
+    background-image: url("images/tom1.png");
+    background-size: cover;
+}
+
+.t2 {
+    background-image: url("images/tom2.png");
+    background-size: cover;
+}
+
+.t3 {
+    background-image: url("images/tom3.png");
+    background-size: cover;
+}
+
+.t4 {
+    background-image: url("images/tom4.png");
+    background-size: cover;
+}
